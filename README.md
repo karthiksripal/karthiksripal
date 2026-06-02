@@ -1,10 +1,9 @@
-<div align="center">
+﻿<div align="center">
 
 # Karthik Sripal J
 
 **Senior Technology Professional &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Financial Markets Enthusiast**
 
-[![Email](https://img.shields.io/badge/Email-karthiksripal.jayapal%40cognizant.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:karthiksripal.jayapal@cognizant.com)
 [![GitHub followers](https://img.shields.io/github/followers/karthiksripal?style=flat-square&logo=github)](https://github.com/karthiksripal)
 [![Profile Views](https://komarev.com/ghpvc/?username=karthiksripal&style=flat-square&color=0078D4)](https://github.com/karthiksripal)
 
