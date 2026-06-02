@@ -1,4 +1,4 @@
-﻿<div align="center">
+﻿﻿<div align="center">
 
 # Karthik Sripal J
 
@@ -13,7 +13,7 @@
 
 ## Professional Summary
 
-Technology professional with experience in enterprise IT, application development, and automation engineering. Currently with **Cognizant Technology Solutions**, focused on delivering scalable solutions and intelligent workflows. Passionate about leveraging AI, Python automation, and self-hosted infrastructure to solve real-world problems.
+Technology professional with experience in enterprise IT, application development, and automation engineering. Focused on delivering scalable solutions and intelligent workflows. Passionate about leveraging AI, Python automation, and self-hosted infrastructure to solve real-world problems.
 
 ---
 
